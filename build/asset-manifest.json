@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3368b940.css",
+    "main.js": "/static/js/main.d4d8d9b4.js",
+    "static/media/3tierwebapp.PNG": "/static/media/3tierwebapp.e865e266a0379735c5b7.PNG",
+    "index.html": "/index.html",
+    "main.3368b940.css.map": "/static/css/main.3368b940.css.map",
+    "main.d4d8d9b4.js.map": "/static/js/main.d4d8d9b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3368b940.css",
+    "static/js/main.d4d8d9b4.js"
+  ]
+}
